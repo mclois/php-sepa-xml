@@ -27,3 +27,6 @@ Session.vim
 
 
 /vendor/
+/.settings/
+/.buildpath
+/.project
